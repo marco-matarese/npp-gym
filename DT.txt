@@ -1,0 +1,16 @@
+internal visits 1 feature 3 value 500 hasLeftChild 1 hasRightChild 1
+internal visits 2.177612 feature 3 value 250 hasLeftChild 1 hasRightChild 1
+internal visits 3.620544 feature 3 value 125 hasLeftChild 1 hasRightChild 1
+leaf visits 4 qs 100.26561 1.19545 1.26402 1.36841 1.22401 1.35902 1.35126 1.01157 1.32819 1.24478 1.17457 2.82917
+internal visits 5 feature 3 value 200 hasLeftChild 1 hasRightChild 0
+leaf visits 6 qs 1.26561 100.19545 1.26402 1.36841 1.22401 1.35902 1.35126 1.01157 1.32819 1.24478 1.17457 2.82917
+internal visits 7 feature 3 value 300 hasLeftChild 1 hasRightChild 1
+leaf visits 8 qs 1.26561 1.19545 100.26402 1.36841 1.22401 1.35902 1.35126 1.01157 1.32819 1.24478 1.17457 2.82917
+leaf visits 9 qs 1.26561 1.19545 1.26402 100.36841 1.22401 1.35902 1.35126 1.01157 1.32819 1.24478 1.17457 2.82917
+internal visits 10 feature 3 value 600 hasLeftChild 1 hasRightChild 1
+leaf visits 11 qs 1.26561 1.19545 1.26402 1.36841 100.22401 1.35902 1.35126 1.01157 1.32819 1.24478 1.17457 2.82917
+internal visits 12 feature 3 value 700 hasLeftChild 0 hasRightChild 1
+internal visits 13 feature 3 value 800 hasLeftChild 1 hasRightChild 1
+leaf visits 14 qs 1.26561 1.19545 1.26402 1.36841 1.22401 100.35902 1.35126 1.01157 1.32819 1.24478 1.17457 2.82917
+internal visits 15 feature 3 value 900 hasLeftChild 0 hasRightChild 1
+leaf visits 16 qs 1.26561 1.19545 1.26402 1.36841 1.22401 1.35902 100.35126 1.01157 1.32819 1.24478 1.17457 2.82917
